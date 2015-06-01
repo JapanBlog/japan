@@ -1,0 +1,48 @@
+---
+title: ""
+output: html_document
+---
+
+```{r}
+# Load necessary packages
+library(leaflet)
+library(rmarkdown)
+
+# Get filenames of all posts
+posts <- list.files(path = "_posts", full.names = TRUE)
+posts <- setNames(posts, list.files(path = "_posts/", full.names = TRUE))
+url_base <- "https://github.com/PeteHaitch/japan_blog/blob/master/"
+markers <- lapply(posts, function(post, url_base) {
+  input_lines <- rmarkdown:::read_lines_utf8(post, getOption("encoding"))
+  yaml_front_matter <- rmarkdown:::parse_yaml_front_matter(input_lines)
+  post_name <- basename(post)
+  # Get the day as Day x (x = 1, 2, ...)
+  day <- as.integer(as.Date(yaml_front_matter$date) - as.Date("2015-05-11") + 1)
+  popup <- try(paste0("'<a href=\"", 
+                      url_base,
+                      post,
+                      "\">", 
+                      "Day ",
+                      day,
+                      ": ",
+                      yaml_front_matter["title"], 
+                      "</a>'"))
+  # TODO: Need to handle posts with duplicated co-ordinatess
+  try(data.frame(yaml_front_matter[c("latitude", "longitude")], 
+                 popup = popup,
+                 stringsAsFactors = FALSE))
+}, url_base = url_base)
+markers <- do.call("rbind", markers)
+
+# TODO: Is it possible to highlight the first marker as the start?
+leaflet() %>% 
+  addTiles() %>%
+  setView(lng = 140.392816, 
+          lat = 35.771428, 
+          zoom = 5) %>%
+  addMarkers(lng = markers$longitude, 
+             lat = markers$latitude,
+             popup = markers$popup) %>%
+  addPolylines(lng = as.numeric(markers$longitude), 
+               lat = as.numeric(markers$latitude))
+```
