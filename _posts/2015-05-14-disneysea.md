@@ -7,7 +7,7 @@ latitude: 35.626702
 longitude: 139.885078
 ---
 
-Today I went to [DisneySea](http://www.tokyodisneyresort.jp/en/tds/), the aquatic-themed (barely) sister to Disneyland. It's right next to Tokyo Disneyland and is, I imagine, rather similar to its land-based brethren - lots of Disney characters wandering about, parades, rides and ~~crap~~ merchandise. Oodles and oodles of ~~crap~~ merchandise.
+Today I went to [DisneySea](http://www.tokyodisneyresort.jp/en/tds/), the aquatic-themed (barely) sister to Disneyland. It's right next to Tokyo Disneyland and is, I imagine, rather similar to its land-based brethren - lots of Disney characters wandering about, parades, rides and <strike>crap</strike> merchandise. Oodles and oodles of <strike>crap</strike> merchandise.
 
 Until a couple of years ago, when I went to Universal Studios in Los Angeles, I'd never been to a theme park. Turns out they can be pretty fun, and I'd heard good things about DisneySea, so off I headed.
 
