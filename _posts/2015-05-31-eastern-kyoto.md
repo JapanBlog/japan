@@ -26,3 +26,5 @@ I ended up at Nanzen-ji, another Zen temple, but rather than look around the tem
 On my descent I could hear what sounded like drums in the distance. As I got back to my starting point, I realised that what I was hearing was clapping, foot stomping, and flamenco guitar. I jumped on my bike and soon found that there was a Spanish festival on at a nearby public square. I had a quick look around at the food stands but couldn't figure out how to buy anything since I lacked the coupon book that everyone was using to pay. The people performing the flamenco dancing were technically quite good, but rather seemed to lack the passion intrinsic to the music.
 
 ![Japanese flamenco](https://lh3.googleusercontent.com/zPo1VsvUTa5eYQT46cIzfM7GS40DIBM4D62aBu3n9_8=w1280-h720-no)
+
+# [More Photographs](https://goo.gl/photos/M8RufyTzyBua2asm8)
