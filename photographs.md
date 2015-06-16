@@ -22,3 +22,4 @@ title:  "Photographs"
 - [Day 20 \| J-League](https://goo.gl/photos/pcWzLhuhyDE2NRY46)
 - [Day 21 \| Eastern Kyoto](https://goo.gl/photos/M8RufyTzyBua2asm8)
 - [Day 22 \| Himeji](https://goo.gl/photos/dxoRMwkXmbgjstaXA)
+- [Day 23 \| Miyajima](https://goo.gl/photos/LQQpdAzNXY7DnfA86)
