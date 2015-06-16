@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Naha"
+title:  "Aquarium Redux"
 date:   2015-06-13
 categories: Okinawa
-latitude:
-longitude:
+latitude: 26.694129
+longitude: 127.877986
 ---
 
 - Starbucks is the place for foreign language classes

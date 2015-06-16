@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Yoshino Beach"
-date:   2015-06-13
+date:   2015-06-15
 categories: Okinawa
-latitude:
-longitude:
+latitude: 24.748549
+longitude: 125.442405
 ---
 
 - Bloody difficult 22km ride on a rusted old bike

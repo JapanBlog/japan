@@ -3,8 +3,8 @@ layout: post
 title:  "Miyakojima"
 date:   2015-06-13
 categories: Okinawa
-latitude:
-longitude:
+latitude: 24.727891
+longitude: 125.275722
 ---
 
 - Re-title post the name of the beach

@@ -3,8 +3,8 @@ layout: post
 title:  "Harry Potter"
 date:   2015-06-10
 categories: Osaka
-latitude:
-longitude:
+latitude: 34.665424
+longitude: 135.432313
 ---
 
 - Universal studios, mostly to see Harry Potter World
