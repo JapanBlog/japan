@@ -23,3 +23,5 @@ title:  "Photographs"
 - [Day 21 \| Eastern Kyoto](https://goo.gl/photos/M8RufyTzyBua2asm8)
 - [Day 22 \| Himeji](https://goo.gl/photos/dxoRMwkXmbgjstaXA)
 - [Day 23 \| Miyajima](https://goo.gl/photos/LQQpdAzNXY7DnfA86)
+- [Day 24 \| Hiroshima](https://goo.gl/photos/sP152rAgRKFGsJB27)
+- [Day 25 \| Fukuoka](https://goo.gl/photos/4FZ5DwCDu5PaLNfA6)
