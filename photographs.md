@@ -25,3 +25,4 @@ title:  "Photographs"
 - [Day 23 \| Miyajima](https://goo.gl/photos/LQQpdAzNXY7DnfA86)
 - [Day 24 \| Hiroshima](https://goo.gl/photos/sP152rAgRKFGsJB27)
 - [Day 25 \| Fukuoka](https://goo.gl/photos/4FZ5DwCDu5PaLNfA6)
+- [Day 26 |\ Penguins](https://goo.gl/photos/vR3GheysKfC3UYA2A)
