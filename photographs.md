@@ -27,3 +27,4 @@ title:  "Photographs"
 - [Day 25 \| Fukuoka](https://goo.gl/photos/4FZ5DwCDu5PaLNfA6)
 - [Day 26 |\ Penguins](https://goo.gl/photos/vR3GheysKfC3UYA2A)
 - [Day 27 |\ Trains](https://goo.gl/photos/yAqqVrULtWDNEKt47)
+- [Day 28 \| Kisai-san](https://goo.gl/photos/uUHaPM2kec7XRGdo8)
