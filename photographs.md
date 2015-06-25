@@ -30,3 +30,4 @@ title:  "Photographs"
 - [Day 28 \| Kisai-san](https://goo.gl/photos/uUHaPM2kec7XRGdo8)
 - [Day 29 \| Aqaurium](https://goo.gl/photos/i7hN9hFvixRoh5vz7)
 - [Day 30 \| Baseball](https://goo.gl/photos/9rQeHrhG7tEY9aK89)
+- [Day 31 \| The Wizarding World of Harry Potter](https://goo.gl/photos/vLjsBtLp5ZEvkEWt5)
