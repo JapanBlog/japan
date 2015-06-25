@@ -28,3 +28,4 @@ title:  "Photographs"
 - [Day 26 |\ Penguins](https://goo.gl/photos/vR3GheysKfC3UYA2A)
 - [Day 27 |\ Trains](https://goo.gl/photos/yAqqVrULtWDNEKt47)
 - [Day 28 \| Kisai-san](https://goo.gl/photos/uUHaPM2kec7XRGdo8)
+- [Day 29 \| Aqaurium](https://goo.gl/photos/i7hN9hFvixRoh5vz7)
