@@ -17,7 +17,7 @@ Today I flew from Osaka to Naha in Okinawa. Since I didn't do much else, and I'm
 - _Lobe you more every day_ - written on a woman's shirt in Kusatsu.
 - Japanese cars are almost silent at rest or in slow moving traffic because so many of them are hybrids or automatically switch off the engine when idle.
 - At a British-themed pub that is playing a boy band style cover of Beth by Kiss (they've now played this song twice in the space of 60 minutes). Now it's a piss-weak cover of School's Out by Alice Cooper. I've noticed this a lot in Japan, they often play weird, weak covers of popular songs, e.g., instrumental, orchestral Beatles tunes. It's like they're trying to avoid paying music licensing fees.
-- __regret__ |rɪ\ˈgrɛt| (_noun_): The feeling after buying what you think is a cold orange juice from a vending machine only for it to be hot tea.
+- __regret__ (_noun_): The feeling after buying what you think is a cold orange juice from a vending machine only for it to be hot tea.
 - There is a dog wearing a nappy in Takayama.
 - _Expert. Reward. Vaunt._ - written on a T-shirt spotted in Kanazawa.
 - _DEFINITELY. STAUNCH. MODERATION_ - written on a T-shirt spotted in Nara (printed in the style of the _PARENTAL ADVISORY. EXPLICIT CONTENT._ that used to be affixed to CDs).
