@@ -3,8 +3,8 @@ layout: post
 title:  "Still Sick"
 date:   2015-06-18
 categories: Okinawa
-latitude:
-longitude:
+latitude: 24.356401
+longitude: 124.244159
 ---
 
 Yep, definitely sick. Thankfully, the dormitories have excellent air-conditioning and there is good wifi, so I spent the day napping and watching Netflix.

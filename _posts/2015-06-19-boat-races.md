@@ -3,8 +3,8 @@ layout: post
 title:  "Boat Races"
 date:   2015-06-19
 categories: Okinawa
-latitude:
-longitude:
+latitude: 24.354424
+longitude: 124.245704
 ---
 
 I woke up feeling much the same as I had the night before. As I rolled over to go back to sleep, Hiro-san, the friendly and helpful owner of the hostel, came in to remind us that today was the Fisherman's Festival. I had been told a little bit about the festival by Hiro-san when I arrived, but only to the extent that I knew there were boat races at some point and that we were all welcome to join in. Sounded like fun to me! With this encouragement, I threw on some clothes and headed to the local beach with him and some others from the hostel.

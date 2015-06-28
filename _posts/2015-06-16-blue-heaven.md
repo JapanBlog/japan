@@ -3,8 +3,8 @@ layout: post
 title:  "Blue Heaven"
 date:   2015-06-16
 categories: Okinawa
-latitude: 24.722434
-longitude: 125.254822
+latitude: 24.722391
+longitude: 125.254101
 ---
 
 I spent my last day morning in Miyakojima back at Yonaha-Maehama Beach near the fancy hotel. I then borrowed the bike again to cycle across to Kurima Island. I grabbed lunch at _Pani Pani_ - taco pizza and blue heaven ("cream soda") spider! Best.
