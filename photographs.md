@@ -35,3 +35,4 @@ title:  "Photographs"
 - [Day 33 \| Aquarium Redux](https://goo.gl/photos/LjdheTYnMDhHjFr16)
 - [Day 34 \| Yonaha-Maehama Beach](https://goo.gl/photos/bfAWgA3MgAjQkpJM6)
 - [Day 35 \| Yoshino Beach](https://goo.gl/photos/5jdea5x5pVbq3Udo7)
+- [Day 36 \| Blue Heaven](https://goo.gl/photos/NLMrGrMqvWArWc9Q8)
