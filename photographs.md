@@ -32,3 +32,4 @@ title:  "Photographs"
 - [Day 30 \| Baseball](https://goo.gl/photos/9rQeHrhG7tEY9aK89)
 - [Day 31 \| The Wizarding World of Harry Potter](https://goo.gl/photos/vLjsBtLp5ZEvkEWt5)
 - [Day 32 \| Kōyasan](https://goo.gl/photos/A7kytnCNYXt7hamg9)
+- [Day 33 \| Aquarium Redux](https://goo.gl/photos/LjdheTYnMDhHjFr16)
