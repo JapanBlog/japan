@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yonaha-Maehama Beach"
-date:   2015-06-13
+date:   2015-06-14
 categories: Okinawa
 latitude: 24.727891
 longitude: 125.275722
